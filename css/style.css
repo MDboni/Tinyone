@@ -1,0 +1,22 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #171401;
+}
+
+/* header part  */
+
+header{
+    background-color: #fcdb00;
+}
+.c-nav{}
+.c-nav a img {
+}
+
+.menu ul li a{
+    font-size: 22px;
+    
+}
+.menu ul li:last-child a{}
+.menu ul li a:hover{}
