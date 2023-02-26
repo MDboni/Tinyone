@@ -9,6 +9,7 @@ body{
 
 header{
     background-color: #fcdb00;
+   
 }
 .c-nav{}
 .c-nav a img {
@@ -16,7 +17,15 @@ header{
 
 .menu ul li a{
     font-size: 22px;
-    
+    font-weight: 700;
+    color: #171401 !important;
+        padding: 0px 20px !important;
+
 }
-.menu ul li:last-child a{}
-.menu ul li a:hover{}
+
+.menu ul li:last-child a{
+    padding-right: 0px !important;
+}
+.menu ul li a:hover{
+    color: aliceblue !important;
+}
