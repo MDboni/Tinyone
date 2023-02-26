@@ -19,7 +19,7 @@ header{
     font-size: 22px;
     font-weight: 700;
     color: #171401 !important;
-        padding: 0px 20px !important;
+        padding: 0px 40px !important;
 
 }
 
@@ -29,3 +29,94 @@ header{
 .menu ul li a:hover{
     color: aliceblue !important;
 }
+/* header end   */
+/* slid start  */ 
+
+element.style {
+}
+.carousel-indicators {
+    
+    margin-bottom: -2rem !important;
+    
+}
+.carousel-indicators [data-bs-target] {
+   
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50%;
+    
+}
+
+
+.slidor{
+    background-color: #fcdb00;
+    padding: 40px 40px !important;
+}
+.slid-text{
+    margin: 91px 0px 0px 0px;
+}
+.slid-h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 29px;
+    font-weight: 700;
+    color: #171401;
+}
+.slid-h5{
+    font-size: 19px;
+    color: #171401;
+    padding: 10px 0px;
+}
+.slid-para{
+    font-size: 14px;
+ color: #555555;
+}
+.slid-icone{}
+.slid-icone ul li{
+    font-size: 27px;
+    margin: 0px 18px 0px 0px !important;
+}
+.slid-icone ul li i{
+   
+    transition: .3s;
+}
+.slid-icone ul li i:hover {
+transform: scale(.8);
+}
+
+.slid-img{ 
+    transition: .5s;
+}
+.slid-img:hover{
+transform: scale(.7);
+}
+/* slider end  */ 
+
+ /* feature part start  */
+
+ /* faeture end  */
+ .font-size {
+    padding: 34px 9px 15px 101px;
+}
+.f-text{}
+.f-h1{
+    padding: 45px 0px 0px 167px !important;
+}
+.f-p{
+    padding: 0px 0px 54px 100px !important;
+}
+
+.fa-i i{
+    font-size: 28px;
+    margin: -10px 50px
+    
+}
+
+.fi-h1{
+    font-weight: 700;
+}
+.fi-p{
+    font-size: 13px;
+    padding: 10px 0px;
+    color: #898989;
+}
+
