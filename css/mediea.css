@@ -18,6 +18,23 @@
       .slid-text {
         margin: -7px 0px 0px 0px;
     }
+
+    /* feature part  */
+    .f-h1 {
+        padding: 19px 0px 0px 0px !important;
+    }
+    .f-p {
+        padding: 0px 0px 44px 0px !important;
+    }
+    /* feter single part  */
+    .fe-h2 {
+        text-align: center;
+    }
+    .fe-p {
+        text-align: center;
+        font-size: 19px;
+    }
+    
 }
   
 
@@ -28,6 +45,25 @@
     .menu ul li a {
         padding: 0px 0px 0px 0px !important;
         text-align: right;
+    }
+
+    /* featur part  */
+    .f-h1 {
+        padding: 19px 0px 0px 0px !important;
+    }
+    .f-p {
+        padding: 0px 0px 44px 0px !important;
+    }
+    /* feter singel part  */
+    .fe-icone {
+        font-size: 27px;
+    }
+    .fe-h2 {
+        font-size: 14px;
+    }
+    .fe-p {
+        font-size: 10px;
+        line-height: 15px;
     }
 
    
@@ -44,6 +80,23 @@
         padding: 0px 0px 0px 0px !important;
         text-align: right;
     }
+
+    /* feature part  */
+    .f-h1 {
+        padding: 43px 0px 0px 37px !important;
+    }
+    
+.f-p {
+    padding: 0px 0px 54px 17px !important;
+}
+
+/* feter single part  */
+.fe-h2 {
+    font-size: 17px;
+}
+.fe-p {
+    font-size: 12px;
+}
 
    
 }

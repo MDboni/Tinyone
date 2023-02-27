@@ -119,4 +119,19 @@ transform: scale(.7);
     padding: 10px 0px;
     color: #898989;
 }
+/* fet single part  */
+.fe-4{
+    padding-bottom: 20px;
+}
+.fe-icone{
+    font-size: 33px;
+    text-align: center;
+}
+.fe-h2{
+        font-size: 24px;
+        font-weight: 700;
+}
+.fe-p{
+    color: #898989;
+}
 
